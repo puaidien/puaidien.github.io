@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://puaidien.github.io/sitemap
+Sitemap: https://puaidien.github.io/app/sitemap
+Sitemap: https://puaidien.github.io/assets/sitemap
+Sitemap: https://puaidien.github.io/css/sitemap
+Sitemap: https://puaidien.github.io/includes/sitemap
+Sitemap: https://puaidien.github.io/item/sitemap
+Sitemap: https://puaidien.github.io/src/sitemap
